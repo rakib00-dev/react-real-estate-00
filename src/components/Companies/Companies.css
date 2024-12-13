@@ -3,6 +3,7 @@
   gap: 1rem;
   padding: 4rem 0;
   width: 100%;
+  align-items: center;
 }
 
 .c-container > img {
