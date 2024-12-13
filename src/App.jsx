@@ -14,14 +14,14 @@ function App() {
       <div>
         <div className="white-greadient" />
         <Header />
-        <Hero />
+        {/* <Hero /> */}
       </div>
-      <Companies />
+      {/* <Companies />
       <Residencies />
       <Value />
       <Contact />
       <GetStarted />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
